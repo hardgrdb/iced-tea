@@ -1,0 +1,16 @@
+!SESSION 2013-11-15 13:11:56.178 -----------------------------------------------
+eclipse.buildId=M20120914-1800
+java.version=1.7.0_07
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2013-11-15 13:12:43.536
+!MESSAGE unexpected method call (NullSarosSession.java:66)
+
+!ENTRY de.fu_berlin.inf.dpp 2 0 2013-11-15 13:12:43.538
+!MESSAGE unexpected method call (NullSarosSession.java:66)
+
+!ENTRY org.eclipse.ui 4 4 2013-11-15 13:24:30.895
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
