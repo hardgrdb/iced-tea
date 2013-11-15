@@ -20,17 +20,4 @@ public abstract class Scene {
 	{
 		
 	}
-	
-	public RuleBasedSprite[] getAddedSprites()
-	{
-		return this.addedSprites;
-	}
-	
-	public RuleBasedSprite[] getSlidingSprites()
-	{
-		return this.slidingSprites;
-	}
-	
-	
-	
 }
