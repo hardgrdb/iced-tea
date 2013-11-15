@@ -1,5 +1,10 @@
 package scene;
 
-public class MenuScene {
+public class MenuScene extends Scene {
 
+	public MenuScene()
+	{
+		super();
+		
+	}
 }
