@@ -14,3 +14,6 @@ Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.e
 
 !ENTRY org.eclipse.ui 4 4 2013-11-15 13:24:30.895
 !MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.
+
+!ENTRY org.eclipse.ui 4 4 2013-11-15 13:32:01.511
+!MESSAGE Referenced part does not exist yet: org.eclipse.ui.views.TaskList.

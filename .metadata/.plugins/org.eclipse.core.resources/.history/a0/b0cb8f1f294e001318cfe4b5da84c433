@@ -1,0 +1,14 @@
+package app;
+
+public class FinalApplication extends MultimediaApplication{
+
+	public static void main(String [] args)
+	{
+		
+	}
+	
+	public FinalApplication(String[] args, int height, int width)
+	{
+		
+	}
+}
