@@ -1,0 +1,15 @@
+package visual.dynamic;
+
+import visual.dynamic.described.RuleBasedSprite;
+import visual.statik.TransformableContent;
+
+public class SlidingSprite extends RuleBasedSprite {
+
+	private int speed;
+	private double x, y;
+	
+	public SlidingSprite(TransformableContent c, int speed, double x, double y)
+	{
+		super(c);
+	}
+}

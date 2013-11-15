@@ -1,0 +1,34 @@
+package data;
+
+public enum Environment {
+
+	CITY("","",""),
+	FOREST("","",""),
+	MOUNTAINS("","",""),
+	SNOW("","","");
+	
+	private String background, ground;
+	private String[] foreground;
+	
+	Environment(String background, String ground, String... foreground)
+	{
+		this.background = background;
+		this.ground = ground;
+		this.foreground = foreground;
+	}
+	
+	public String[] getForeground()
+	{
+		return this.foreground;
+	}
+	
+	public String getBackground()
+	{
+		return this.background;
+	}
+	
+	public String getGround()
+	{
+		return this.ground;
+	}
+}
